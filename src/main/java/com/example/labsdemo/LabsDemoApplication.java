@@ -15,6 +15,6 @@ public class LabsDemoApplication {
 
     @RequestMapping("")
     public String hello() {
-        return "Hello! Fuck!!";
+        return "Hello! guy!!";
     }
 }
